@@ -3,6 +3,7 @@ package ch.bemed.antispam.mail;
 
 import ch.bemed.antispam.Loader;
 
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -34,6 +35,8 @@ public class Splitter {
                 allLines.append(System.lineSeparator());
 //                if (line.matches("\\s+")) {
 //                if (line.matches("[ \\t\\r\\n\\f]+")) {
+                //TODO
+                //line.matches Vergleichsausdruck überprüfen; nicht immer letzte Zeile
                 if (line.matches("X-MS-Exchange-Organization-AuthAs:.*")) {
                     mails.add(allLines.toString());
                     allLines = new StringBuilder();
