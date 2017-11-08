@@ -40,6 +40,8 @@ public class Main {
 //                for (int i = 0; i<addresses.length; i++) {
 //                    System.out.println(addresses[i].toString());
 //                }
+
+                //tobi rokks
                 Address[] replys = message.getReplyTo();
                 Arrays.stream(replys).forEach(r -> {
                     System.out.println(r.toString());
