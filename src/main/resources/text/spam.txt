@@ -1,0 +1,479 @@
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Mon, 30 Oct 2017 10:08:07 +0100
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30; Mon, 30 Oct
+ 2017 10:08:05 +0100
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Mon, 30 Oct 2017 10:08:05 +0100
+Received: from mail-io0-f195.google.com (209.85.223.195) by HSMS033.be-med.lan
+ (194.124.136.171) with Microsoft SMTP Server (TLS) id 15.1.396.30; Mon, 30
+ Oct 2017 10:09:47 +0100
+Received: by mail-io0-f195.google.com with SMTP id 97so25522089iok.7
+        for <info@be-med.ch>; Mon, 30 Oct 2017 02:09:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=7fKtozT7TYlegjnNyFnkm2LHiTeFYQg5eWRiTj3lW+o=;
+        b=g4TTfGaiyFnXIxI7EA//mJ+hpfagqDyTJRBRTjFPHxDC1USbYoqnkwHMgI8qe2lr1f
+         BgFR0Q1t9LBVz4FHGeYK/zP2sEtFWiYsWwVfRDNV7FcFqKTJCQAlM9ceihG8uteJOXR4
+         C/A7fu7IoQEX2LmZt61pccG8+rXsQtq/qxMiOq0RTBuE7rRVKlxWYqfQhx3UlGG9m4lx
+         OU67O6HwDFC9z/koXqomgMWBoCxsouBvESu7KxWQ7NFjezxC4JURWFM57bw9nR6XYLtX
+         9tVNpSa7Ru/MTKdmAEPvLec5ERewCfFV8ifKNPNULMBOgtLM4G+pdqYbZkvOIXCDCGBm
+         /y5g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=7fKtozT7TYlegjnNyFnkm2LHiTeFYQg5eWRiTj3lW+o=;
+        b=NKIk4w+ZR8IOLWvQe22tA5bvEactq6fnxZwwMiI/U91c1kO8v/999fqWqncywP58jZ
+         XD3J2q+DEVoGAMOpWfG7vcdN7MJMxyJxneXw1Fo/M8AJAiEXwOULwVDYpZ2bakWEqCoF
+         7IBTG7gRpKqV3CKTpTnAfUD/Mb7hoQM1qaRRzqg1C6/H5yWawYUQRIADlH8as0O6Bl9y
+         baBRxGEeBXMY+zoA9CvyjMWIlcvoa/ksGhMdOMDH22kNf+P4JdOv3yjzupDHySNP+DTO
+         ee/gtCI67aX8hS2aI6keNwwt0ue4pAripudZldH5XWgeChdBysMDKB5QmcAlbu6tKkDQ
+         rU+Q==
+X-Gm-Message-State: AMCzsaWKx0P9aMwrMckUbqaR6I7DBPdx4SsoXwnP5KSKRhWvV6FO20B2
+	tA/thyIDzq06Yl3w5SOnH18GGH3Qzp154rvH7Xk=
+X-Google-Smtp-Source: ABhQp+Sgoq+hTUp+AcGXTl2rOohRWGl0fWlxJoOComBEh4wM0PdNWhMt13mfZpKwq4naB4nAhpErYyFW9bqnuMcigm0=
+X-Received: by 10.107.184.66 with SMTP id i63mr5743518iof.17.1509354542528;
+ Mon, 30 Oct 2017 02:09:02 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.107.6.12 with HTTP; Mon, 30 Oct 2017 02:09:02 -0700 (PDT)
+From: Laurence Adiko <chambre.999@gmail.com>
+Date: Mon, 30 Oct 2017 09:09:02 +0000
+Message-ID: <CABpA2h3J9eij2bBbGB9rCMMtQPWEn=UcbEBeLSrEgjWAV6VdRA@mail.gmail.com>
+Subject: DEMANDE DE PARTENARIAT
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+BCC: <info@be-med.ch>
+Return-Path: chambre.999@gmail.com
+X-MS-Exchange-Organization-Network-Message-Id: df86892c-9efe-4f43-9ace-08d51f75f7b1
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
+ 
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Mon, 30 Oct 2017 10:05:08 +0100
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30; Mon, 30 Oct
+ 2017 10:05:06 +0100
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Mon, 30 Oct 2017 10:05:06 +0100
+Received: from mail-io0-f193.google.com (209.85.223.193) by HSMS033.be-med.lan
+ (194.124.136.171) with Microsoft SMTP Server (TLS) id 15.1.396.30; Mon, 30
+ Oct 2017 10:06:47 +0100
+Received: by mail-io0-f193.google.com with SMTP id p186so25484289ioe.12
+        for <info@be-med.ch>; Mon, 30 Oct 2017 02:06:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=7fKtozT7TYlegjnNyFnkm2LHiTeFYQg5eWRiTj3lW+o=;
+        b=Rqk8YMQ9V58KE16aSbzafnDK4Ffy6jLNEw4ovUbwfGlFiZkU5mpBXTpIE37mVm2Nls
+         PHPkv0mbg+3Of754UJV9FlbWpnwlXNPaA4XuqFZrnew8qV3eQ2UplAy0OKCU8PCeW8Cj
+         Dp2TYaKXcyJaG3BGeuteEaPQm7H3YijzwWsfE67vvGMw4lBrKrNMkATWMz16W6vRpBSN
+         tug+AyePDwdaMFTZwQ2xUyAYmj+l+d9UYhhbxepyAoe4a6pthNcX2Q0x10wYnKac2VgQ
+         Lv3coGZaPHVcYiwtI4MFR0Vpm8k7CeosMEILEKshDgugs2+bo03mfP768kOqxFSsCvPk
+         HLKA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=7fKtozT7TYlegjnNyFnkm2LHiTeFYQg5eWRiTj3lW+o=;
+        b=WTnxn0wt74gxl+0qA+zD0Njy/9xhEyHzIRtIZ6j/2TvItLfRX2Rf7TI/oBNdoZoss0
+         +CY0BhwSRLTalXVPtGrsonHDTZRLX/UqpbGiiqCKgGXruqaLqvSQEWEdgjAyS3AjBPgh
+         upXE9HuvB8Z10Crz9jnrOWwF3kR9LV6ot5RuqXL128EBFzhMPiKgeKipACxe31JUBt5+
+         f5U76zkZRr/6p7VQMoH6M40xKg34dDaYQiOB2jZ45tZGfHoYsCSpCr/mAG0mb1entLDc
+         ahlROZ8k2kMu3jRD4wymJfNgX5zuUOw3xE3mr8la4G96VJTUqXOO/P+rNtvHx0AozXoL
+         SNlw==
+X-Gm-Message-State: AMCzsaWWaqI1khBsZrZerNnM8Gp3I4jdj2fHU0ewFPY2XIbuMSF2buTd
+	HuD4q470TyfVsGY8EQ5pjc2HPxR1IWPXeQx1kyg=
+X-Google-Smtp-Source: ABhQp+TaDaAGScavGEZJiDL6f5nS6Q82+wjcW56PfvMYnQYJEByvlbePHMrQ6HLd4S5t7zFdp5PSCHdCIxcK1tRW6YM=
+X-Received: by 10.36.31.8 with SMTP id d8mr5094284itd.80.1509354367701; Mon,
+ 30 Oct 2017 02:06:07 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.107.6.12 with HTTP; Mon, 30 Oct 2017 02:06:07 -0700 (PDT)
+From: Laurence Adiko <chambre.999@gmail.com>
+Date: Mon, 30 Oct 2017 09:06:07 +0000
+Message-ID: <CABpA2h0EppqNZCSooW3_fafLxXECsAVPqBYOrsSc6CD0n=OMcw@mail.gmail.com>
+Subject: DEMANDE DE PARTENARIAT
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+BCC: <info@be-med.ch>
+Return-Path: chambre.999@gmail.com
+X-MS-Exchange-Organization-Network-Message-Id: 739ced19-205e-4c2c-247d-08d51f758cf3
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
+ 
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Mon, 30 Oct 2017 09:00:03 +0100
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan (10.163.140.32) with
+ Microsoft SMTP Server (TLS) id 15.1.396.30; Mon, 30 Oct 2017 08:59:45 +0100
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan (10.163.140.32)
+ with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend Transport; Mon, 30 Oct 2017 08:59:45 +0100
+Received: from ip7.rp03.net (109.197.241.251) by HSMS033.be-med.lan (194.124.136.171) with
+ Microsoft SMTP Server id 15.1.396.30; Mon, 30 Oct 2017 09:01:26 +0100
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1509350452; s=mta0; d=news-welcomeurope.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe:Sender;
+ l=15467; bh=QTuEDgJeBFZe/k8Z2hubFqAlqhKLEGDCaA2RmmAogX0=;b=DZ8UZx9Zew6XZZJoy4KWUbeKXNrhFoyD/J0Yp4yYya6xA0B6IHniaLw2n5GL3opCEWS165bmAahOgVw9FqJ7fb7DLshqh1RyyHUDzh8q0K8zesxcgPPZD+xNcNvnd68jO7ozEUzjSJrFaG/zEa/QIYBeHvXU0TBxCmV9nzr9KQI=
+Date: Mon, 30 Oct 2017 09:00:52 +0100 (CET)
+From: welcomeurope <marine.rossi@news-welcomeurope.com>
+Reply-To: welcomeurope <eutraining@welcomeurope.com>
+To: <info@be-med.ch>
+Message-ID: <sr.NAxqHvGkq0uYHzti08UZaA.Cf3nzTF6EUmpzg_gxzpiRQ@news-welcomeurope.com>
+Subject: Why you can't get EU funds without our training
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_2793_99802297.1509350445294"
+List-Unsubscribe: <http://eye.news-welcomeurope.com/r/USBSHOW/44/112882/NAxqHvGkq0uYHzti08UZaA/Cf3nzTF6EUmpzg_gxzpiRQ?email=info@be-med.ch&adm=contact@welcomeurope.com>
+X-Priority: 3
+Importance: normal
+Organization:
+Feedback-ID: 112882:fVd2SkL9sU64Pf6DrCbSwA:none:Sarbacane
+Sender: marine.rossi@news-welcomeurope.com
+Return-Path:
+	sr.NAxqHvGkq0uYHzti08UZaA.Cf3nzTF6EUmpzg_gxzpiRQ@news-welcomeurope.com
+X-MS-Exchange-Organization-Network-Message-Id: 4e47a17f-b290-4219-daa8-08d51f6c6be7
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
+ 
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Mon, 30 Oct 2017 00:47:56 +0100
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan (10.163.140.32) with
+ Microsoft SMTP Server (TLS) id 15.1.396.30; Mon, 30 Oct 2017 00:47:42 +0100
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan (10.163.140.32)
+ with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend Transport; Mon, 30 Oct 2017 00:47:42 +0100
+Received: from mail.andeev.me (213.197.161.212) by HSMS033.be-med.lan (194.124.136.171) with
+ Microsoft SMTP Server id 15.1.396.30; Mon, 30 Oct 2017 00:49:20 +0100
+Received: from andeev.me (mail.andeev.me [213.197.161.212])by mail.andeev.me (Postfix) with
+ ESMTPA id 10A8315E6EDC;Sun, 29 Oct 2017 22:44:33 +0200 (EET)
+Message-ID: <ydrapsv53217538.26316367@mail.andeev.me>
+From: Bitcoin Code <ydrapsv@andeev.me>
+To: <office@baeckerei-mild.at>
+Subject: =?utf-8?B?UmVpdGUgYXVmIGRlciBCaXRjb2luLiBCaXRjb2luIFdlbGxlIHVuZCB2ZXJkaWVuZSBnYXJhbnRpZXIg4oKsMTMuMDAw?=
+Date: Sun, 29 Oct 2017 23:44:38 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related; type="multipart/alternative";
+	boundary="----=_NextPart_000_0006_01D3510F.4D5D8450"
+Precedence: bulk
+List-Id: b15160478v17337717
+X-Complaints-To: abuse@andeev.me
+List-Unsubscribe: <http://andeev.me/ru/unsubscribe/do?hash=6583560286101732>
+Return-Path: ydrapsv@andeev.me
+X-MS-Exchange-Organization-Network-Message-Id: b37b8926-8c3e-4b54-2448-08d51f27acf7
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
+ 
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Sun, 29 Oct 2017 06:43:39 +0100
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30; Sun, 29 Oct
+ 2017 06:43:23 +0100
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Sun, 29 Oct 2017 06:43:23 +0100
+Received: from server.compuwebgt.com (138.128.179.250) by HSMS033.be-med.lan
+ (194.124.136.171) with Microsoft SMTP Server (TLS) id 15.1.396.30; Sun, 29
+ Oct 2017 06:45:05 +0100
+Received: from [105.4.72.12] (port=48419 helo=[10.32.66.251])
+	by server.compuwebgt.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <foundation@gmail.com>)
+	id 1e8gOP-0004eu-GZ; Sat, 28 Oct 2017 23:44:17 -0600
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: =?utf-8?b?4oKsIDMuNDAwLjAwMCwwMCBFVVI=?=
+To: Recipients <foundation@gmail.com>
+From: <foundation@gmail.com>
+Date: Sun, 29 Oct 2017 07:43:36 +0200
+Reply-To: <roycockrumvowfoundation@yahoo.com>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.compuwebgt.com
+X-AntiAbuse: Original Domain - be-med.ch
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - gmail.com
+X-Get-Message-Sender-Via: server.compuwebgt.com: authenticated_id: p.ordonez@kapsicorp.com
+X-Authenticated-Sender: server.compuwebgt.com: p.ordonez@kapsicorp.com
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+Message-ID: <e57b5530-5b5a-4e1a-b270-732b8942cf02@HSMS033.be-med.lan>
+Return-Path: foundation@gmail.com
+X-MS-Exchange-Organization-Network-Message-Id: 3032f543-f955-46e4-dbfd-08d51e9034b8
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
+ 
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Sat, 28 Oct 2017 00:49:07 +0200
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan (10.163.140.32) with
+ Microsoft SMTP Server (TLS) id 15.1.396.30; Sat, 28 Oct 2017 00:49:03 +0200
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan (10.163.140.32)
+ with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend Transport; Sat, 28 Oct 2017 00:49:03 +0200
+Received: from mail.sparfuchs.biz (54.37.15.68) by HSMS033.be-med.lan (194.124.136.171) with
+ Microsoft SMTP Server (TLS) id 15.1.396.30; Sat, 28 Oct 2017 00:50:45 +0200
+Subject: =?utf-8?B?S3VnZWxzY2hyZWliZXItQ2FtIGbDvHIgU3Bhc3MgdW5kIEFjdGlv?==?utf-8?B?bnZpZGVvcyBzdGF0dCA4OS45MCBqZXR6dCBudXIgRnIuIDI5Ljkw?=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sparfuchs.biz;s=key1; t=1509144610;bh=598/+AaiJJ7xGvy3x+vCnzNLa5c/EZCm+t+Y/kFMJ2A=;h=Subject:To:From:Date:List-Id;b=sInBgExDlz2XZBQe+vg18USSLWLIvE/ci98wJODR510fr2GC1NdE0aPYAKAuqtqEE
+ lLJB/x/dN/Wnqfqq46z/2pVcE/J7so0m1NPU/3nVjCqFPpVQeIp875R2BwcDyyU9Fq NuvCZNIl3HLE6R5pp6gyNyR6qlS/ieO1AHAf+yjw=
+To: =?utf-8?B?YmUtbWVkOiBCZXJuZXIgQmVydWZzZmFjaHNjaHVs?==?utf-8?B?ZSBmw7xyIG1lZGl6aW5pc2NoZSBBc3Npc3RlbnpiZXJ1?==?utf-8?B?ZmUgQUc=?= <info@be-med.ch>
+From: "Spion Kugelschreiber" <news@sparfuchs.biz>
+Date: Sat, 28 Oct 2017 00:50:10 +0200
+Message-ID: <cdfb96451f6a55df4a5cf4058e2179c80bbf6c@sparfuchs.biz>
+X-SWM-BOUNCE: 01_02_04_03
+List-Id: <6-69187.localhost>
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+Return-Path: news@sparfuchs.biz
+X-MS-Exchange-Organization-Network-Message-Id: 8004830e-7424-44a9-86fd-08d51d8d28fd
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-EC0D2A8E-5CB7-4969-9C36-46D859D137BE-PartID: 55740E5F-B659-4C7E-A7AE-387B1E105F16
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
+ 
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Fri, 27 Oct 2017 16:54:27 +0200
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan (10.163.140.32) with
+ Microsoft SMTP Server (TLS) id 15.1.396.30; Fri, 27 Oct 2017 16:54:26 +0200
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan (10.163.140.32)
+ with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend Transport; Fri, 27 Oct 2017 16:54:26 +0200
+Received: from mail.sktipp.shop (176.53.60.9) by HSMS033.be-med.lan (194.124.136.171) with
+ Microsoft SMTP Server (TLS) id 15.1.396.30; Fri, 27 Oct 2017 16:56:08 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=sktipp.shop; s=default; h=Message-Id:Date:Content-Type:To:Subject:From:Sender:Reply-To:Cc:MIME-Version:Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;bh=yrck6y3CiHtV11pektntyesnIxOwnNo7N6PeWa4FI1Q=;
+ b=ua8OorUW7NeSfxJpaKB9IfZrPm8DCKMlekI6hsmYv3PRfAfqU5Rrurc5GfI9ycUrkF7F5fSGpklUeP6N8/22PcQPuy5y5E+f00/Qf0n6c4MDyLrM413Gil5KGUOEUEH3uZ75/bB2ZinyMsky84MPCW6nKG/jzhHSOICqfMKgihwvjJhsSNZ6GfwVjdU23+Wkfr5rDcZzhrxW1/nYWXaAnnVrVbkx9MeaDxhvNrGVvxGARL4tVxLAfU1oFuGflO/BVgR2e45NRvipUIR1Xj0iBn0+L9tcNrAjGL0p3AfQZCOaDM1kgTLqDk2mmZw8kfdkyXtBqIcb1OOuJwKbW0mDeQ==;
+Received: from 220.228.197.178.dynamic.wless.zhbmb00p-cgnat.res.cust.swisscom.ch ([178.197.228.220]:60057
+ helo=P17-PC)by mail.sktipp.shop with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)(Exim
+ 4.89)(envelope-from <news@sktipp.shop>)id 1e8302-0006p6-0tfor info@be-med.ch; Fri, 27 Oct 2017 13:40:30 +0200
+From: "TwixTel Winter Plus" <news@sktipp.shop>
+Subject: Neu Twix Tel 57 Info CD und Bonus:USB 16 GB Highspeed Stick (Wert 99) nur Fr 69.90
+To: <info@be-med.ch>
+Content-Type: text/html; charset=utf-8
+Date: Fri, 27 Oct 2017 13:40:22 +0200
+Message-Id: <20171027134022C4DDB8399C$22AF156B78@PPC>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mail.sktipp.shop
+X-AntiAbuse: Original Domain - be-med.ch
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - sktipp.shop
+X-Get-Message-Sender-Via: mail.sktipp.shop: authenticated_id: news@sktipp.shop
+X-Authenticated-Sender: mail.sktipp.shop: news@sktipp.shop
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+MIME-Version: 1.0
+Return-Path: news@sktipp.shop
+X-MS-Exchange-Organization-Network-Message-Id: ec263257-8f2a-4fe9-6699-08d51d4adaf8
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-EC0D2A8E-5CB7-4969-9C36-46D859D137BE-PartID: A9EB7E5E-737D-4965-9731-50CD00B108A8
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
+ 
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Fri, 27 Oct 2017 14:48:40 +0200
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan (10.163.140.32) with
+ Microsoft SMTP Server (TLS) id 15.1.396.30; Fri, 27 Oct 2017 14:48:35 +0200
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan (10.163.140.32)
+ with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend Transport; Fri, 27 Oct 2017 14:48:35 +0200
+Received: from s020.cyon.net (149.126.4.29) by HSMS033.be-med.lan (194.124.136.171) with Microsoft
+ SMTP Server (TLS) id 15.1.396.30; Fri, 27 Oct 2017 14:50:17 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;d=jazzfestivalbern.ch; s=default;
+ h=Content-Type:MIME-Version:Message-ID:Date:Subject:To:From:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;bh=ywVbXCfKRto9roSav447f6Z7omK3h+njyTePj2Ehams=;
+ b=jzi42VB+tQCYym7Y7BnCCgnJUFih5jqgno3F3vcjxl3/OqQx2+wYf6OWUXBiej1cC9JWjiYimBGpa2EAplQroxT0yzedVBHC+ucmWuEbfCkR3nli0jUTCUPFICGR6mkKlGH696c2crRlwKPdRhCyJGDhoB6OsMDB1OhTPncM8nLC51Uk54Rd8BwOf5WDePbMI6lMtiq8lyy0GaLPJy1EyrHOKka6p4qDJ4ozKKOVg5bwhl/FmeAq7uT98kcf0H5X3gClXalZRX2LlTNlWkz23hpiQTVzjsBbI/bgZULC2+MYT3fn87473uMJPKTqXvZNJuRK9wbJlILgvW6CcukM1Q==;
+Received: from [10.20.10.232] (port=39552 helo=mail.cyon.ch)by s020.cyon.net with esmtpa (Exim
+ 4.87)(envelope-from <k.gehri@jazzfestivalbern.ch>)id 1e844v-002BBT-Fhfor info@be-med.ch; Fri, 27 Oct 2017 14:49:41 +0200
+From: "Katrin Gehri" <k.gehri@jazzfestivalbern.ch>
+To: <info@be-med.ch>
+Subject: =?iso-8859-1?Q?Quartierfest_am_2._Dezember_2017:_W=FCrden_Sie_Flyer_von_u?==?iso-8859-1?Q?ns_auflegen_bzw._aufh=E4ngen=3F?=
+Date: Fri, 27 Oct 2017 14:49:34 +0200
+Message-ID: <01ee01d34f22$0b0d4de0$2127e9a0$@gehri@jazzfestivalbern.ch>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_NextPart_000_01EF_01D34F32.CE961DE0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdNPHScqpoLKog6KTUe7Z7KyZnSwtAAAHU1wAABrQ4AAAAsyEAAAC5TgAAAF3xAAAA6uAAAABxdAAAAFXzAAAAZNsAAABsNQAAAjrYAAAB+5oAAABX7AAAAUBYAAAAudwA==
+Content-Language: de-ch
+X-OutGoing-Spam-Status: No, score=0.0
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - s020.cyon.net
+X-AntiAbuse: Original Domain - be-med.ch
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - jazzfestivalbern.ch
+X-Get-Message-Sender-Via: s020.cyon.net: authenticated_id: k.gehri@jazzfestivalbern.ch
+X-Authenticated-Sender: s020.cyon.net: k.gehri@jazzfestivalbern.ch
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+Return-Path: k.gehri@jazzfestivalbern.ch
+X-MS-Exchange-Organization-Network-Message-Id: ae33ce35-74a2-4772-aede-08d51d394651
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
+ 
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Thu, 26 Oct 2017 16:20:13 +0200
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan (10.163.140.32) with
+ Microsoft SMTP Server (TLS) id 15.1.396.30; Thu, 26 Oct 2017 16:19:58 +0200
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan (10.163.140.32)
+ with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend Transport; Thu, 26 Oct 2017 16:19:58 +0200
+Received: from h129.nl2go.com (62.138.121.56) by HSMS033.be-med.lan (194.124.136.171) with
+ Microsoft SMTP Server (TLS) id 15.1.396.30; Thu, 26 Oct 2017 16:21:40 +0200
+Subject: Sale 10 Prozent Rabatt auf alles
+From: "citydisc.ch" <newsletter@citydisc.ch>
+To: info@be-med.ch
+Reply-To: <info@citydisc.ch>
+Date: Thu, 26 Oct 2017 12:11:02 +0200
+Message-Id: <18293480688042648@h129.nl2go.com>
+List-Unsubscribe: <mailto:unsubscribe+0-0-16p0r-11jcnnk-b33@nl2go.com>, <http://app.newsletter2go.com/de/newsletter/index/unsubscribe/c/0-16p0r-11jcnnk-1awj/g/list/lp/http%253A%252F%252Fwww.newsletter-abmeldung.de>
+List-Id: 0-16p0r-11jcnnk-1awj
+X-AntiAbuse: Please report spam to abuse@newsletter2go.com and refer to this ID: 0-16p0r-11jcnnk-1awj
+X-rpcampaign: RP1991979
+X-IPM-Campaign: nl2go.1991979
+DKIM-Signature: a=rsa-sha256; b=OdYjIvEdRMpWtxnZGse85wi05jQo6oMpCpVNfWFNGXJWr/ofoflGO0JGMMpteAp1wrkxm6s13BF5e/Rfbvf67+qtQkey2JVXd0rjlg4JvwnrRZ+nwGXV9Qxj7F4/KuvzjkUDnwp8lsAXgiz7gNuaerb8mtH54cjwsiNEbCGuygI=;
+ s=newsletter2go; d=citydisc.ch; v=1; bh=3omzC2USdUOyATXGLamCD7OFJt6PGRCt0Oaas7UNLfE=;
+ h=Reply-To:List-Unsubscribe:List-Id:From:To:Message-Id:Subject:MIME-Version:Date;
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=ED782025C3651EC13E6DE663A7732594"
+Return-Path: return+0-0-16p0r-11jcnnk-b33@nl2go.com
+X-MS-Exchange-Organization-Network-Message-Id: 360330b3-f278-4b43-a0fa-08d51c7ce051
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
+ 
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Thu, 26 Oct 2017 16:04:37 +0200
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan (10.163.140.32) with
+ Microsoft SMTP Server (TLS) id 15.1.396.30; Thu, 26 Oct 2017 16:04:22 +0200
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan (10.163.140.32)
+ with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend Transport; Thu, 26 Oct 2017 16:04:22 +0200
+Received: from mout.gmx.net (212.227.17.21) by HSMS033.be-med.lan (194.124.136.171) with Microsoft
+ SMTP Server (TLS) id 15.1.396.30; Thu, 26 Oct 2017 16:06:05 +0200
+Received: from 82-208-101-238.pg-nat-pool.mts-nn.ru ([82.208.101.238]) by mail.gmx.com (mrgmx101
+ [212.227.17.168]) with ESMTPSA (Nemesis) id 0MgXCF-1dn30f415z-00O2rp for <info@be-med.ch>; Thu, 26 Oct 2017 16:05:31 +0200
+From: "info@Deutsch-Russisch.ru" <deutsch-russisch9@gmx.de>
+Subject: =?utf-8?B?w5xiZXJzZXR6dW5nZW4gRGV1dHNjaD4+UnVzc2lzY2g=?=
+To: info <info@be-med.ch>
+Content-Type: multipart/alternative;
+	boundary="S5FNda=_So1ubBTlRTv6GutVT5yoc5wlEU"
+MIME-Version: 1.0
+Reply-To: "info@Deutsch-Russisch.ru" <info@Deutsch-Russisch.ru>
+Organization: info@Deutsch-Russisch.ru
+Date: Thu, 26 Oct 2017 17:05:31 +0300
+Return-Receipt-To: <info@Deutsch-Russisch.ru>
+Message-ID: <0MZxch-1dtcZw465X-00LpwP@mail.gmx.com>
+X-Provags-ID: V03:K0:CBu7GMyBRxm0gC4w0SXPCFaqVYfI/wPU4B2UAadjROygLYgdPpQ BH+ewLMh7qeY26Vhq3TeTeWgVLiK3suSODlga7xxa3JNneYblJBLTEzlhda+O4+0ZA0wKT2
+ ecR6zt0wrDOW8nOwW5IlLcaUUKmNUsrLKgFlnKbuZz/tBDOjlBwtqoqTvczvIQ2O/k94KZU S6dgfjmaz7NJfN3JVwfsg==
+X-UI-Out-Filterresults: notjunk:1;V01:K0:x5J9wdhbtQI=:N++SJpCTrvAhKhPC2niQLo Yo6PypZb4gnhtdvnaO+iy6UL1A5PHcoIckjuzPKeJEGUdna6rO9SdqwtzYQb6RZbAUNRgBV3Y
+ cYbnQIZw22kHAB+jREurxE5beqMFfxJoByEhZDAuwgfGgRUyNtgy4ZDMaeAPeyX+6k8vXTcOJ YLq9kIg+PCQo/5JOqwwvMTiRpQ1upNYCZL7nI/aZa8aaBRTcdENl6dLzDzyaMuH9A1hWWoEqu
+ WN7tEN6QSIXXVv8kefPQrHyPZ5LXlKX2AsYrlSTSvizusEssXusmiafZyW849UmFoj/8h5QYL rwgMra9AELXn22uLfeyn4jbvTSEPe9PaM37elSwxiFed+XvrnsCbbTCOymphqb0tyKh1dkh//
+ NBJH7RJaz3mRael0nTTBSJT+ju94n6/Gs1Udx364PkU1zjRF8f/jC6JMkt0AYQXKtTaNTwwXa qhDgRqM/rcMMFz3Y/JeL7YzfJn8D1VNZLvTTmgMMe19lPizRbu6XB1o7lXPFcvNSir3kwHUx5
+ ywT/BUkoG/IEY7Bs9lLUtgqnp3cvYgJI4/ooEKbtMBSx19oMPgGMXktTKAloIy3LKKi+Cuy5g zvj9mM7OawdEW2u6z44JBx5dxPBZsurzsy4agk5jQmQAEnV0q5lx9+ZmmnveJZlpZL3rW720C
+ P7+aWQ554MucxHiSq7WDAeCEQaPn7ijI2oUmPnc5gmh66VEcVvgyUEicQx3JgTqFzTJx9QwjC kqfvnhSCSU/9og7qUN1bneXStISHZW/tGIL6iygJb4JSFyMKbksMz1ktSrDM0czswGHbvd99J
+ jRjyOQ9zmSIvgEBrHq0Iy/izAnD9u/iRu33nuWu5xpWI1a64yLlwDiFC75+25pqlvTKwi7UBn TV5Qf43UsVIuj5q5mGavu5pDr08UWXs5rvIEvVSo0v7qGc/QydD8DtHy/5rIzbgReYFBAKNED XLImYN2WSZw==
+Return-Path: deutsch-russisch9@gmx.de
+X-MS-Exchange-Organization-Network-Message-Id: a9f954f4-1dab-431f-5059-08d51c7ab2d0
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
+ 
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Thu, 26 Oct 2017 06:32:56 +0200
+Received: from HSMS032.be-med.lan (10.163.140.32) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30; Thu, 26 Oct
+ 2017 06:32:54 +0200
+Received: from HSMS033.be-med.lan (194.124.136.171) by HSMS032.be-med.lan
+ (10.163.140.32) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Thu, 26 Oct 2017 06:32:54 +0200
+Received: from mail2.hcg.gr (84.205.254.54) by HSMS033.be-med.lan
+ (194.124.136.171) with Microsoft SMTP Server (TLS) id 15.1.396.30; Thu, 26
+ Oct 2017 06:34:36 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by mail2.hcg.gr (Postfix) with ESMTP id A471379F7717;
+	Thu, 26 Oct 2017 07:33:01 +0300 (EEST)
+Received: from mail2.hcg.gr ([127.0.0.1])
+	by localhost (mail2.hcg.gr [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id 5qYFeC0Jrat5; Thu, 26 Oct 2017 07:33:01 +0300 (EEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail2.hcg.gr (Postfix) with ESMTP id 4212679F775D;
+	Thu, 26 Oct 2017 07:33:01 +0300 (EEST)
+DKIM-Filter: OpenDKIM Filter v2.9.0 mail2.hcg.gr 4212679F775D
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hcg.gr; s=selector2;
+	t=1508992381; bh=lU+bXObuHQBTer/Wp0kDpKVV/ZGtpwQA7164tL4YBmM=;
+	h=Content-Type:MIME-Version:Content-Transfer-Encoding:Subject:To:
+	 From:Date:Reply-To:Message-Id;
+	b=Y9DO1CDxqRAR1vTlECdkxU4cyMX8P0TyLfqpr8jlQN27IAfckFMEBsHCtDSz+Hmqv
+	 tzD02xGHlsoZ6wGAafB6OqA7Q1AG89N/oXbsCB7c5SR2KCwYU50n/SugpppzVKcdNR
+	 jkSJhMxbT54pvusnI3Cm7jCUD/N9uX9cn1AR9QIM=
+X-Virus-Scanned: amavisd-new at mail2.hcg.gr
+Received: from mail2.hcg.gr ([127.0.0.1])
+	by localhost (mail2.hcg.gr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id vNqnf_Se-3NT; Thu, 26 Oct 2017 07:33:01 +0300 (EEST)
+Received: from DESKTOP-R7SPH4B.3.home (92.40.35.103.threembb.co.uk [92.40.35.103])
+	by mail2.hcg.gr (Postfix) with ESMTPSA id A881579F7717;
+	Thu, 26 Oct 2017 07:32:34 +0300 (EEST)
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: Finanzielle Gelegenheit
+To: Recipients <lagos@hcg.gr>
+From: "Chase Finance" <lagos@hcg.gr>
+Date: Thu, 26 Oct 2017 05:30:32 +0100
+Reply-To: info@chasefinance.org
+Message-Id: <20171026043235.A881579F7717@mail2.hcg.gr>
+Return-Path: lagos@hcg.gr
+X-MS-Exchange-Organization-Network-Message-Id: 273c1af7-bd3b-4712-3cc7-08d51c2add2e
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: HSMS033.be-med.lan
+X-GFI-SMTP-RemoteIP: 194.124.136.171
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: HSMS033.be-med.lan
+X-MS-Exchange-Organization-AuthAs: Anonymous
